@@ -1,0 +1,13 @@
+#ifndef CONSTANTS_H
+#define CONSTANTS_H
+
+enum TOKEN_TYPES
+{
+    TOKEN,
+    INTEGER,
+    OPERATOR,
+    FUNCTION,
+    LEFTPAREN,
+    RIGHTPAREN
+};
+#endif // CONSTANTS_H
