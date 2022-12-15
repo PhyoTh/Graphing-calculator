@@ -8,7 +8,7 @@
 #include "system.h"
 #include "scales.h"
 // #include "button.h"
-#include <boost/algorithm/string.hpp>
+// #include <boost/algorithm/string.hpp>
 using namespace std;
 
 class animate

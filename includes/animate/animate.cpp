@@ -298,8 +298,8 @@ void animate::processEvents()
                 popUp = true;
                 if (popUp && input.size() > 0)
                 {
-                    boost::trim_right(input);
-                    boost::trim_left(input);
+                    // boost::trim_right(input);
+                    // boost::trim_left(input);
                     history.push_back(input);
                     save = true;
                     sidebar[SB_EQUATION] = "f(x) = " + input;
