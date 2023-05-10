@@ -1,5 +1,5 @@
 # Graphing-calculator
-This project includes binary files, bplustree, double linked list, stack, queue, parser, shunting yard, rpn, tokenizer, and sql
+This project includes integration of SFML with Mathematics based programming, RPN, Shunting Yard, Stack and Queue with linked list
 <br><br>
 
 # **output**
