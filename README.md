@@ -116,9 +116,4 @@ Tip: For steep functions or large magnitudes, reduce the step size (sampling inc
 Actively maintained as a learning and demonstration project. Issues and PRs are welcome.
 
 ## License
-No LICENSE file is currently present. Consider adding one (MIT/Apache-2.0/BSD-3-Clause) to enable broader use.
-
-## Credits
-- SFML: https://www.sfml-dev.org/
-- Shunting Yard algorithm by Edsger W. Dijkstra
-- Reverse Polish Notation (RPN) evaluation
+No LICENSE file is currently present. 
